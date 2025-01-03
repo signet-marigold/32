@@ -1,6 +1,6 @@
 # git-fake-rs
 
-GitHub contribution graph looking a little barren? Fear not—**git-fake-rs** is here to save the day! This nifty Rust tool generates random commits to make your profile look like you're a coding machine (even if you're just binge-watching your favorite series).
+GitHub contribution graph looking a little barren? Fear not—**git-fake-rs** is here to save the day! This nifty Rust tool generates random commits to make your profile look like you're a coding machine.
 
 ## Features
 
